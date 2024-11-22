@@ -1,0 +1,13 @@
+numpy
+tqdm
+matplotlib
+scipy
+scikit-learn
+memory_profiler
+seaborn
+networkx
+langchain_community
+langchain
+pandas
+plotly
+chromadb

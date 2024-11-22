@@ -1,0 +1,12 @@
+data_topics:
+  reviews:
+    topic_name: "Reviews"
+    topic_dir: "data/reviews"
+  languages:
+    topic_name: "Languages"
+    topic_dir: "data/languages"
+  speech:
+    topic_name: "Speech"
+    topic_dir: "data/speech"
+
+default_topic: "reviews"
