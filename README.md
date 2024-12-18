@@ -1,6 +1,8 @@
 # Data Mining Project & Assignment 4
 
 This project involves clustering and projection algorithms to analyze and visualize data. It includes methods for finding optimal parameters for DBSCAN clustering and generating visualizations of clustering results.
+This Image demonstrates the results achieved in comparing positive and negative reviews for hotels.
+![image](https://github.com/user-attachments/assets/6c544690-6611-4291-8db7-6e37452ed65b)
 
 ## Table of Contents
 
